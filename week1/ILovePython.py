@@ -4,4 +4,4 @@
 #This program prints: Hello, World! 25 times
 
 for i in range(25):
-    print("Hello, World!")
+    print("I love Python!")
