@@ -1,0 +1,5 @@
+#Name: James Yu
+#Email: james.yu66@myhunter.cuny.edu
+#Date: 26 September 2023
+
+out = not(in1 and in2)
