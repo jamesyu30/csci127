@@ -2,8 +2,8 @@
 #Email:  james.yu66@myhunter.cuny.edu
 #Date: October 29, 2023
 
-st = input("Non empty string: ")
-while st == "":
+str = input("Non empty string: ")
+while str == "":
     #print("empty string")
-    st = input("try again: ")
-print(st)
+    str = input("try again: ")
+print(str)
