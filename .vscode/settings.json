@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cppTest.C": "cpp",
+        "print.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
